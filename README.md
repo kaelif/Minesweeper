@@ -1,1 +1,3 @@
 # Minesweeper
+Requirements:
+  - pygame
