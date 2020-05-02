@@ -191,7 +191,7 @@ class MinesweeperAI():
         # Next line could be wrong:
         self.knowledge.add((cell, count))
 
-        
+
 
 
     def make_safe_move(self):
